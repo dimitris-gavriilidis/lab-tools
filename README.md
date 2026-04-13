@@ -1,14 +1,13 @@
-# 🧪 Lab Mini Apps
+# 🧪 Lab Tools
 
-A growing collection of small Python tools for lab workflows and calculations.  
-These apps are part of my learning journey in Python and lab automation.
+A growing collection of Python tools for pharmaceutical QC lab 
+workflows and calculations.
 
-## 📌 Current Apps
-- **Lab Calculator** → Adds three numbers (starter project)
-- **%RSD Checker** → Calculates average, SD, and %RSD for lab data sets
-- **HPLC Sequence Generator** → Generates sample sequences for lab runs
+Built by an OSD Technical Advisor with 15+ years in GMP laboratory 
+analysis, HPLC troubleshooting and Empower CDS.
 
-
-
----
-*More mini-apps coming soon...*
+## 📌 Tools
+- **Dilution Calculator** — calculates stock volumes using C1V1=C2V2
+- **Solution Concentration** — calculates concentration in mg/mL
+- **%RSD Checker** — calculates mean, SD, and %RSD from a data set
+- **HPLC Sequence Generator** — generates sample run sequences
